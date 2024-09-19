@@ -1,0 +1,20 @@
+Comparison and visulization of data
+Input size: 100
+  Random array - Deterministic: 0.000329s, Randomized: 0.000384s
+  Sorted array - Deterministic: 0.000344s, Randomized: 0.000468s
+  Reverse_sorted array - Deterministic: 0.000345s, Randomized: 0.000458s
+
+Input size: 1000
+  Random array - Deterministic: 0.005316s, Randomized: 0.005644s
+  Sorted array - Deterministic: 0.004174s, Randomized: 0.006114s
+  Reverse_sorted array - Deterministic: 0.003922s, Randomized: 0.007133s
+
+Input size: 5000
+  Random array - Deterministic: 0.031343s, Randomized: 0.030279s
+  Sorted array - Deterministic: 0.025699s, Randomized: 0.037619s
+  Reverse_sorted array - Deterministic: 0.025509s, Randomized: 0.036969s
+
+Input size: 10000
+  Random array - Deterministic: 0.072249s, Randomized: 0.068854s
+  Sorted array - Deterministic: 0.054627s, Randomized: 0.075108s
+  Reverse_sorted array - Deterministic: 0.055083s, Randomized: 0.080050s
